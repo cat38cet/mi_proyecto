@@ -1,0 +1,10 @@
+Producto,Precio,Fecha_Venta,Región
+Producto a,10.5,2024-01-15,norte
+Producto a,10.5,2024-01-15,norte
+Producto b,15.0,2024-01-16,sur
+Producto c,20.0,2024-01-17,este
+,10.5,2024-01-18,oeste
+Producto d,25.0,2024-01-19,este
+Producto b,15.0,,sur
+Producto e,5.0,2024-01-20,oeste
+Producto e,5.0,2024-01-20,sur
