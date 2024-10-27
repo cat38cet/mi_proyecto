@@ -23,3 +23,4 @@ print(f"El modelo {modelo} cuesta {cuesta}.")
 #Solución:
 #print(f"El modelo {Modelo} cuesta {cuesta}.")
 #antes tenia puestoesto y estaba mal: cuesta {precio}
+#respetar las mayusculas y tal pues variables entre llaves deben estar igual a las definidas

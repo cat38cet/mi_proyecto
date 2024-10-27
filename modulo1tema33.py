@@ -1,3 +1,5 @@
+#metodos con diccionarios (len, del, o añado nuevas claves o valores a un diccionario)
+#cómo eliminar diccionarios enteros o claves dentro de cada diccionario
 #indico los dos diccionarios
 teclado1 = { 'Categoría': 'Teclados', 'Modelo': 'HyperX Alloy FPS Pro', 'Precio': '89,99'} 
 

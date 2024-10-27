@@ -1,5 +1,7 @@
+#múltiples condiciones if
 #creo la variable codenumero
-codenumero = int(input("introduce un número del 1 al 7"))
+#creo la variable numero-El nombre de la variable en la primera línea codenumero debe ser numero para mantener coherencia
+numero = int(input("Introduce un número del 1 al 7: "))
 #creo las múltiples condiciones e imprimo
 if numero == 1:
     print("Lunes")

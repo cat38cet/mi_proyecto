@@ -1,3 +1,5 @@
+#El condicional if y operadores de comparación
+#if, ==, <, >, <=, >=, != (dif)
 num1=15
 num2=20
 if num1==num2:

@@ -1,4 +1,5 @@
 #creo la variable entrada donde pido que me devuelva un valor en texto
+#no pongo int antes de input pq son palabras
 entrada = input("introduce el nombre de un color:\n")
 #creo la variable colores con la lista de colores
 colores = ["rojo", "verde", "azul", "rosa"]

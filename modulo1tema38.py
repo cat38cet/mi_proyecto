@@ -1,3 +1,4 @@
+#método __init__
 #defino la clase coche y con _init_ indico los atributos
 class Coche:
     def __init__(self, marca, modelo, año):

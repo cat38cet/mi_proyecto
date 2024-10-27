@@ -5,5 +5,6 @@
 #creamos la tupla de colores
 colores = ('rojo', 'azul', 'verde', 'amarillo')
 #creamos el bucle for e imprimimos
+#si quiero que se imprima literalmente algo lo pongo entre comillas, si quiero que se imprima el valor no pongo comillas
 for color in colores:
     print("El color es:", color, ".")

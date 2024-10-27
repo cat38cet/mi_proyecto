@@ -1,3 +1,4 @@
+#declarar clases vacías con pass y eliminar objetos
 #defino la clase vacía con pass
 class Vehiculo:
     pass

@@ -1,3 +1,4 @@
+#el bucle while
 #creo una variable
 x = 0
 #creo el bucle hasta 15 con incrementos de 5

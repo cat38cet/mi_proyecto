@@ -1,3 +1,5 @@
+#condicional if blabla: ....else blabla:
+#corregir el script que dio el ejercicio
 color=rojo
 if color == rojo:
 print("el color es rojo.")

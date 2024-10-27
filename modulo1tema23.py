@@ -1,4 +1,6 @@
+#El condicional if elif else e input, entrada de datos
 #convierto a entero el texto y le pido input para recibir el valor y le pido salto de línea
+#pongo int porque son números enteros
 edad = int(input('¿Cuál es tu edad?\n'))
 #le pido el primer condicional e imprimir
 if edad <= 0: 

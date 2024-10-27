@@ -1,3 +1,4 @@
+#bucle while con condicional if
 #creo una variable a la que le doy valor
 x = 0
 #creo un bucle con condicional que indica cuando se rompre el bucle

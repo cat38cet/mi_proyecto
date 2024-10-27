@@ -1,4 +1,4 @@
-#EL BUCLE WHILE:creo la clase, le defino lo del tinterior, pongo lo de self, después printeo la función, creo las instancias, y llamo a la función
+#creo la clase, le defino lo del tinterior, pongo lo de self, después printeo la función, creo las instancias, y llamo a la función
 #creo una clase y defino la función con los atributos como se pide
 class Libro:
     def __init__(self, titulo='', autor='', año=0):

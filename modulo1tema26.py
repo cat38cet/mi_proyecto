@@ -1,3 +1,5 @@
+#tips para condicionales...if bla_bla= True...if bla:...else:
+#se hace con variables boleanas (dos posibles valores...true o false)
 #creo la variable verdadera
 es_cliente_premium = True
 #solicito imprimir un texto si se cumple una condición
